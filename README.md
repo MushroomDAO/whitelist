@@ -1,5 +1,6 @@
 # Whitelist for Mushroom DAO Cold Launch Airdrop
-The MushroomDAO is focus on launching a real organization to explore on coodination and cooperation, create protocols, connect communities into a network.
+
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)The MushroomDAO is focus on launching a real organization to explore on coodination and cooperation, create protocols, connect communities into a network.
 So, we are launching now, drop the ticket to the Digital Public Goods and more fun things for digital future.
 
 ## Why?
@@ -44,3 +45,7 @@ Invitation only.
 ## More
 We will drop to top 100 communities on their beta test cooperation with COS72 and more.
 Talk with Oscar for this.
+
+## License
+
+Licensed under the [Apache License, Version 2.0](https://opensource.org/licenses/Apache-2.0). See [LICENSE](./LICENSE) for details.
